@@ -17,7 +17,7 @@ from bs4 import BeautifulSoup
 # Scraping the data from Flipkart
 url = "https://www.flipkart.com/search?q=mobile+under+50000&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off&page=" + str(i)
 
-# Request pass to the Flipkart Page
+# Request pass to the Flipkart Page..
 response = requests.get(url)
 
 # To store the web page data in one page
