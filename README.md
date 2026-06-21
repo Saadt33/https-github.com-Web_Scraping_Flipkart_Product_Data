@@ -1,7 +1,7 @@
 # Web-Scraping-on-Flipkart l.
 This script scrapes information about mobile phones priced under ₹50,000 from Flipkart and then saves the data in a CSV file. It's pretty neat because it uses libraries like 'requests', 'BeautifulSoup', and 'pandas' to get the job done
 
-# Web Scraping.
+# Web Scraping
 Web scraping is all about automatically pulling data from websites with the help of software or scripts. This allows you to access web pages, download the content and extract the relevant information into a usable format. People use web scraping for all sorts of things like gathering research data, keeping an eye on online prices , and gathering content for websites. However, it's important to always follow the rules and respect the terms of service of the websites you're scraping.
 
 ![image](https://github.com/Shreedevi-25/Web-Scraping-on-Flipkart/assets/175317219/c109f568-3433-4ec6-b9eb-8600c4d1720d)
