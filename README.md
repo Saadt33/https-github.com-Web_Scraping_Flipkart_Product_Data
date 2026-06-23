@@ -6,7 +6,7 @@ Web scraping is all about automatically pulling data from websites with the help
 
 ![image](https://github.com/Shreedevi-25/Web-Scraping-on-Flipkart/assets/175317219/c109f568-3433-4ec6-b9eb-8600c4d1720d)
 
-# Flipkart
+# Flipkart,
 Flipkart is one of India's largest e-commerce platforms, where you can find a wide range of products including electronics, fashion items, home essentials, books, and more. It started back in 2007 and has since become one of the top online retail stores in India, giving tough competition to global giants like Amazon. Flipkart also operates several subsidiaries and owns cool brands like Myntra and PhonePe, offering services that go beyond traditional online shopping.
 
 # Importing Modules
