@@ -1,6 +1,6 @@
 import pandas as pd
 import requests
-from bs4 import BeautifulSoup 
+from bs4 import BeautifulSoup
 
 # Initialize an empty list to store the data
 data = []
