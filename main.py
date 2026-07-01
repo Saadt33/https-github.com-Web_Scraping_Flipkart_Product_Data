@@ -2,7 +2,7 @@ import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 
-# Initialize an empty list to store the data
+# Initialize an empty list to store the data 
 data = []
 
 # URL of the Flipkart search page
