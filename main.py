@@ -1,4 +1,4 @@
-import pandas as pd
+import pandas as pdu
 import requests
 from bs4 import BeautifulSoup
 
