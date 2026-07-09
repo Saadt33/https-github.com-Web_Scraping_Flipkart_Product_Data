@@ -21,7 +21,7 @@ url = "https://www.flipkart.com/search?q=mobile+under+50000&otracker=search&otra
 response = requests.get(url)
 
 # To store the web page data in one page
-soup = BeautifulSoup(response.content, 'html.parser')
+soup = BeautifulSoup(response.content, 'html.parser') 
 
 # Scrap the Product name data
 title = result.find('div', {'class': 'KzDlHZ'}).text.strip()
