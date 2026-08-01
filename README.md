@@ -1,4 +1,4 @@
-# Web-Scraping-on-Flipkart 1
+# Web-Scraping-on-Flipkart 1 
 This script scrapes information about mobile phones priced under ₹50,000 from Flipkart and then saves the data in a CSV file. It's pretty neat because it uses libraries like 'requests', 'BeautifulSoup' and 'pandas' to get the job done
 
 # Web Scraping
@@ -19,7 +19,7 @@ url = "https://www.flipkart.com/search?q=mobile+under+50000&otracker=search&otra
 
 # Request pass to the Flipkart Page
 response = requests.get(url)
-
+ 
 # To store the web page data in one page
 soup = BeautifulSoup(response.content, 'html.parser') 
 
